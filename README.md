@@ -51,6 +51,16 @@ Norton Campbell(idenity v), Gabriel(ultrakill), Ashveil(honkai star rail), Nezha
 
 мой тгк: https://t.me/sk_rra
 
-мой твиттер: 
+мой твиттер: https://x.com/sk_rra
 
+
+<p align="center">
+  <img src="https://github.com/skrra0/ff/blob/main/hugo-vlad-hugo.gif" />
+</p>
+
+ <p align="center"> Nevertheless. I'll wait for you</p>
+
+<p align="center">
+  <img src="https://github.com/skrra0/ff/blob/main/line-border.gif" />
+</p>
 <!--
