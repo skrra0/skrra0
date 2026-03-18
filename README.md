@@ -63,4 +63,8 @@ Norton Campbell(idenity v), Gabriel(ultrakill), Ashveil(honkai star rail), Nezha
 <p align="center">
   <img src="https://github.com/skrra0/ff/blob/main/line-border.gif" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=skrra0&style=flat-square&color=blue" alt=""/> 
+</p>
 <!--
